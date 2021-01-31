@@ -11,7 +11,7 @@
                         "User Message: $message.\n";
 
 
-    $to = "anjalizanta@gmail.com";
+    $to = "business@cloudtecitsolutions.com";
     $headers = "From: $email_from \r\n";
 
     $headers .= "Reply-To: $visitor_email \r\n";
